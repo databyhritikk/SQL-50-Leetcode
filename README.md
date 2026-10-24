@@ -40,12 +40,12 @@ LeetCode-SQL-50/
 ├── Day-01/
 │ ├── problem.sql
 │ ├── solution.sql
-│ └── explanation.md
+│
 │
 ├── Day-02/
 │ ├── problem.sql
 │ ├── solution.sql
-│ └── explanation.md
+│
 │
 ...
 │
@@ -72,7 +72,7 @@ For each problem:
 - Understand the requirement clearly
 - Break down into smaller steps
 - Write clean and optimized SQL queries
-- Add explanation for better understanding
+- Add an explanation for better understanding
 
 ---
 
